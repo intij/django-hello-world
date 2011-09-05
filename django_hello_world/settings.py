@@ -1,5 +1,4 @@
 # Django settings for django_hello_world project.
-
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
